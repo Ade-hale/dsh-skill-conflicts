@@ -1,0 +1,4 @@
+- insert:
+    - id: skill-conflicts
+      name: dsh-skill-conflicts
+      config: {}

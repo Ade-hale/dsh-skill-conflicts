@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "技能冲突检测",
+    "description": "按能力把已安装的 skill 分组，标出功能重叠的项。",
+    "detail": "docs/DETAIL.md"
+  }
+}

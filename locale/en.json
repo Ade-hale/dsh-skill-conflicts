@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Skill conflicts",
+    "description": "Groups installed skills by capability and flags overlapping ones.",
+    "detail": "docs/DETAIL.md"
+  }
+}

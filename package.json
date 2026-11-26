@@ -1,0 +1,21 @@
+{
+  "name": "dsh-skill-conflicts",
+  "version": "0.1.0",
+  "description": "Detect skill conflicts: group installed skills by capability and flag overlapping ones.",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": ["index.js", "cordis.patch.yml", "locale/*.json", "icon.svg", "docs"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ade-hale/dsh-skill-conflicts.git"
+  },
+  "keywords": ["dsh", "dsh-plugin", "deepseek-harness", "skill", "skills", "conflict", "cordis"],
+  "dsh": {
+    "bundle": { "patch": "./cordis.patch.yml" }
+  }
+}
