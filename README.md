@@ -132,6 +132,8 @@ agent 会调用 `inspect_skill_conflicts` 并返回报告。看报告时建议�
 
 更详细的设计说明见 [docs/DETAIL.md](./docs/DETAIL.md)。
 
+变更记录见 [CHANGELOG.md](./CHANGELOG.md)。
+
 ## License
 
 本项目采用 [MIT License](./LICENSE)。

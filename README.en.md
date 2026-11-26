@@ -132,6 +132,8 @@ Issues and pull requests about grouping accuracy and false positives/negatives a
 
 See [docs/DETAIL.md](./docs/DETAIL.md) for more design detail.
 
+See [CHANGELOG.md](./CHANGELOG.md) for the change log.
+
 ## License
 
 Released under the [MIT License](./LICENSE).
