@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Skill conflicts",
-    "description": "Groups installed skills by capability and flags overlapping ones.",
+    "description": "Groups installed skills by capability and separates compatible overlap from real conflicts (trigger collisions or opposing directives).",
     "detail": "docs/DETAIL.md"
   }
 }

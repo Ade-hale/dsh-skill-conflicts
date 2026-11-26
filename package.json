@@ -1,7 +1,7 @@
 {
   "name": "dsh-skill-conflicts",
-  "version": "0.1.1",
-  "description": "Detect skill conflicts: group installed skills by capability and flag overlapping ones.",
+  "version": "0.2.0",
+  "description": "Detect skill conflicts: group installed skills by capability and separate compatible overlap from real conflicts.",
   "type": "module",
   "exports": {
     ".": "./index.js",
