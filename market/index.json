@@ -1,0 +1,39 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Ade's DSH plugins",
+    "zh": "Ade 的 DSH 插件"
+  },
+  "description": {
+    "en": "Plugins by Ade-hale for DeepSeek Harness.",
+    "zh": "Ade-hale 为 DeepSeek Harness 制作的插件。"
+  },
+  "plugins": [
+    {
+      "name": "dsh-skill-conflicts",
+      "title": {
+        "en": "dsh-skill-conflicts",
+        "zh": "dsh-skill-conflicts"
+      },
+      "description": {
+        "en": "Detect skill conflicts: group installed skills by capability and separate compatible overlap from real conflicts.",
+        "zh": "检测 skill 冲突：按能力分组，把「同类型但不冲突」和「互相冲突」分开。"
+      },
+      "icon": "icon.svg",
+      "author": "Ade-hale",
+      "homepage": "https://github.com/Ade-hale/dsh-skill-conflicts#readme",
+      "repository": {
+        "url": "https://github.com/Ade-hale/dsh-skill-conflicts"
+      },
+      "versions": [
+        {
+          "version": "0.2.0",
+          "publishTimestamp": 1795698439,
+          "source": {
+            "type": "npm"
+          }
+        }
+      ]
+    }
+  ]
+}
